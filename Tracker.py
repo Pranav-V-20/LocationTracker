@@ -3,7 +3,7 @@ from phonenumbers import geocoder
 from num import number
 import folium
 
-Key = "2b7ca4af3d4344c1ae1ee0ff0daebcf4"
+Key = "Use your own API key"
 
 check_number = phonenumbers.parse(number)
 number_location  = geocoder.description_for_number(check_number, "en")
