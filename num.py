@@ -1,1 +1,1 @@
-number = "+91 9080389220"
+number = "Use your number with country code"
